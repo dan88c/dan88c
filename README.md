@@ -1,5 +1,5 @@
-# Hi, I'm Daniel 💻
+# Daniel 👋
 
-- 📊 Data Scientist
-- 🌱 Learning to grow & Launching new insights
-- 🌟 Simplicity is the ultimate sophistication.
+Personal scripts, statistical / ML notes, and automations — built to scratch my own itches.
+
+**Stack:** Python, R, SQL
